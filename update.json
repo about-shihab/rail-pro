@@ -1,9 +1,9 @@
 {
-  "version": "1.0.24",
-  "build_number": 25,
+  "version": "1.0.25",
+  "build_number": 26,
   "minimum_build_number": 0,
   "apk_url": "https://github.com/about-shihab/rail-pro/releases/latest/download/Rail-Pro.apk",
   "ipa_url": "https://github.com/about-shihab/rail-pro/releases/latest/download/RailPro.ipa",
-  "sha256": "848ed96305e742e908f9fdadb3a0bd55bdf34dc8e18b843fffa82284e5ec35cb",
-  "size_bytes": 65651936
+  "sha256": "d0ed4e32b4cf94032a8feecf0e443560136db0b0d81bef6293fd27fcdda7b66e",
+  "size_bytes": 65799392
 }
